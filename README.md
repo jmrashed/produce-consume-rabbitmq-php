@@ -65,10 +65,15 @@ Received message: Hello, RabbitMQ! Your random number is 1901594410
 Contributions are welcome! If you find a bug or want to add a new feature, please follow these steps:
 
 Fork the repository.
+
 Create a new branch: `git checkout -b feature/new-feature`.
+
 Make changes and commit: `git commit -am 'Add new feature'`.
+
 Push to the branch: `git push origin feature/new-feature`.
+
 Create a pull request.
+
 
 # License
 This project is licensed under the [MIT License](MIT.md) - see the LICENSE file for details.
