@@ -1,0 +1,19 @@
+{
+    "name": "jmrashed/php-rabbitmq",
+    "description": "The PHP application for rabbitmq",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jmrashed\\PhpRabbitmq\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rashed Zaman",
+            "email": "jmrashed@gmail.com"
+        }
+    ],
+    "require": {
+        "php-amqplib/php-amqplib": "^3.5"
+    }
+}
